@@ -19,7 +19,7 @@ Results of that may be that you lose any benefits, earned or purchased virtual i
 We reserve the right to stop supporting and/or offering the service or any part of it at any point.
 Then your right to use the service or part of the service will be automatically terminated. In such an event, Ideal Theta UG(haftungsbeschränkt) shall not be required to provide refunds or any other kind of compensation to users in connection with these terminated services.
 
-You may terminate your account at any point by following [this guide](https://github.com/IdealTheta/CrashCourseEx/blob/main/Termination_of_service_guide.md)
+You may terminate your account at any point by following [this guide](https://github.com/IdealTheta/Policies/blob/main/CrashCourseEx_Termination_Of_ServiceGuide.md)
 
 # Use of the Service
 For your compliance with these Terms of Service, you shall receive a revocable, limited, non-exclusive, untransferable right to access and use the service for your own non-commercial purpose. By using the service you agree to not use the service for any other purposes.
@@ -101,7 +101,7 @@ You and Ideal Theta UG(haftungsbeschränkt) agree that if any portion of any of 
 We may publish additional Policies and terms for specific services or parts of services. Your right to use these specific services is then subject to those specific policies and terms as well as these terms of service.
 
 # Waivers
-Should we fail to require or enforce strict fulfillement by you of any portion of these terms of service or any other of Ideal Theta's policies including but not limited to our [privacy policy]() or failure to act upon any rights under them shall not be seen as a waiver or relinquishment of our right to assert or rely upon any such provision or right in that or any other instance.
+Should we fail to require or enforce strict fulfillement by you of any portion of these terms of service or any other of Ideal Theta's policies including but not limited to our [privacy policy](https://github.com/IdealTheta/Policies/blob/main/Privacy_Policy.md) or failure to act upon any rights under them shall not be seen as a waiver or relinquishment of our right to assert or rely upon any such provision or right in that or any other instance.
 
 # Links To Other Web Sites
 
